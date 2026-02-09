@@ -244,7 +244,7 @@ Example URL in Postman:
 ## 👨‍💻 Author
 
 **Ashish Kumar Jha**
-Backend Java Developer
+Backend Developer
 
 ---
 
