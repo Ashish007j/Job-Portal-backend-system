@@ -22,7 +22,7 @@ The project follows **industry‑standard backend practices** such as:
 * **Language:** Java
 * **Framework:** Spring Boot
 * **Build Tool:** Maven
-* **Database:** MongoDB / MySQL *(based on configuration)*
+* **Database:** MongoDB
 * **ORM / Data Access:** Spring Data
 * **API Type:** REST APIs
 * **IDE Support:** IntelliJ IDEA, VS Code
